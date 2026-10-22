@@ -3,7 +3,6 @@
 
 <p align="center">
   ${\textsf{\color{#bc2a1a} ᴡᴇ ʟɪᴠᴇ ᴀɴᴅ ᴅɪᴇ
-  
   }}$
   <p align="center">
   ${\textsf{\color{#c04630} ɪɴ ᴀ ᴠᴜʟᴛᴜʀᴇ ᴄᴜʟᴛᴜʀᴇ
