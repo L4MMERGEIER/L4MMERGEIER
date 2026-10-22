@@ -2,10 +2,10 @@
 <img width="800" alt="image" src="https://64.media.tumblr.com/02d05187d9008af07e1fcf99837f69b1/7069c0b5e285f309-3c/s1280x1920/2675ccb811f527f9a955fb15a732aa0130d85904.pnj" />
 
 <p align="center">
-  ${\textsf{\color{#bc2a1a} ᴡᴇ ʟɪᴠᴇ ᴀɴᴅ ᴅɪᴇ
+  ${\textsf{\color{#bc2a1a} "ᴡᴇ ʟɪᴠᴇ ᴀɴᴅ ᴅɪᴇ
   }}$
   <p align="center">
-  ${\textsf{\color{#c04630} ɪɴ ᴀ ᴠᴜʟᴛᴜʀᴇ ᴄᴜʟᴛᴜʀᴇ
+  ${\textsf{\color{#c04630} ɪɴ ᴀ ᴠᴜʟᴛᴜʀᴇ ᴄᴜʟᴛᴜʀᴇ!"
 }}$
  <div align="center">
 <br>
