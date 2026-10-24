@@ -15,7 +15,7 @@
    <br>
 <img width="80" alt="image" src="https://64.media.tumblr.com/db368824fbec6ccd95629c7b24f6af0a/6ae047f29600903a-77/s250x400/3e39e106fd1edcc77478690e01a841b45772d3ae.gifv" />
 <img width="80" alt="image" src="https://64.media.tumblr.com/c124564932b19c4a1330fef329f8e52f/4432bab6f65440df-5c/s250x400/0bb9433d270d80c55386b8cc7a3d61b07789df3d.gifv" />
-<img width="80" alt="image" src="https://64.media.tumblr.com/86efb54f9653c59506cf701c87436802/6ae047f29600903a-b0/s250x400/c559facf06a5ba13254a5bee814e4e30d4faab01.pnj" />
+<img width="80" alt="image" src="https://64.media.tumblr.com/fa12c80c2093513f07d2030428c3dd95/d271ef1b6979b284-a4/s100x200/2d4b615332f1bfb8ac8da7d797f35598debfe868.pnj" />
    <p align="center">
   ${\textsf{\color{#c87e5c} ᴋᴇɴᴏᴘsɪᴀ/ʟᴀᴍ
   }}$<p align="center">
